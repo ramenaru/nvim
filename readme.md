@@ -2,7 +2,7 @@
 
 ![Config Sreenshot](./screenshot.png)
 
-## ✨ Features
+## Features
 
 - **File Explorer** (Common universal sidebar)
 - **Tab Bar** with buffer management
@@ -12,7 +12,7 @@
 - **LSP Support** (autocompletion, diagnostics)
 - **Miscellaneous** (color scheme, config shortcut, etc.)
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 - Neovim (≥ 0.9)
